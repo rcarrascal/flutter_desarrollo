@@ -1,0 +1,17 @@
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\dto\LoginRequest.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\CamionesApiApplication.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\model\Usuario.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\config\WebConfig.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\controller\CamionController.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\dto\AuthResponse.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\util\JwtUtil.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\dto\CamionDTO.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\model\Camion.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\controller\AuthController.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\service\AuthService.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\repository\UsuarioRepository.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\dto\CamionRequest.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\dto\RegisterRequest.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\service\CamionService.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\repository\CamionRepository.java
+C:\Users\ronal\Documents\proyecto2\desarrollo_flutter\backend\src\main\java\com\camiones\dto\UsuarioDTO.java
