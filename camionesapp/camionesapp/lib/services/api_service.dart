@@ -6,7 +6,7 @@ import '../models/camion.dart';
 import '../models/auth_response.dart';
 
 class ApiService {
-  static const String baseUrl = 'https://d495v.wiremockapi.cloud';
+  static const String baseUrl = 'http://10.0.2.2:8080/api';
   
   String? _token;
 
@@ -38,7 +38,7 @@ class ApiService {
   }
 
   Future<AuthResponse> login(String username, String password) async {
-
+    
     final response = await http.post(
       Uri.parse('$baseUrl/auth/login'),
       headers: {'Content-Type': 'application/json'},
